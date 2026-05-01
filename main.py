@@ -1,2 +1,2 @@
-print("Simple neural network")
-
+if __name__ == "__main__":
+    print("Simple neural network")
